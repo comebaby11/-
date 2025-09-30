@@ -1,4 +1,4 @@
-  <head>
+   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="https://cdn.tailwindcss.com"></script>
@@ -57,7 +57,7 @@
         <a
           href="https://www.tiktok.com/@ybja_/video/7421260997790403845?is_from_webapp=1&sender_device=pc&web_id=7537517765210572306"
           type="button"
-          class="bg-purple-500 text-white py-1 px-2 rounded btn-yes w-100 text-xl font-arial"
+          class="bg-purple-500 text-white py-1 5 px-2 rounded btn-yes w-100 text-xl font-arial"
           
           <!-- ganti tulisan tombol link -->
          FOR YOU BABYYY</A
@@ -134,4 +134,4 @@
       }
     </script>
   </body>
-</html>
+</html
