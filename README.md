@@ -57,7 +57,7 @@
         <a
           href="https://www.tiktok.com/@ybja_/video/7421260997790403845?is_from_webapp=1&sender_device=pc&web_id=7537517765210572306"
           type="button"
-          class="bg-purple-700 text-white py-15 px-10 rounded btn-yes w-300 text-xl font-arial"
+          class="bg-purple-300 text-white py-1 px-2 rounded btn-yes w-200 text-xl font-arial"
           
           <!-- ganti tulisan tombol link -->
          FOR YOU BABYYY</A
